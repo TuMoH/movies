@@ -1,0 +1,1074 @@
+[
+  {
+    "title": "Comedy",
+    "movies": [
+      {
+        "id": 1,
+        "title": "Beetlejuice",
+        "year": "1988",
+        "runtime": "92",
+        "director": "Tim Burton"
+      },
+      {
+        "id": 24,
+        "title": "Chasing Amy",
+        "year": "1997",
+        "runtime": "113",
+        "director": "Kevin Smith"
+      },
+      {
+        "id": 28,
+        "title": "Snatch",
+        "year": "2000",
+        "runtime": "102",
+        "director": "Guy Ritchie"
+      },
+      {
+        "id": 31,
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "year": "1998",
+        "runtime": "107",
+        "director": "Guy Ritchie"
+      },
+      {
+        "id": 38,
+        "title": "Midnight in Paris",
+        "year": "2011",
+        "runtime": "94",
+        "director": "Woody Allen"
+      },
+      {
+        "id": 42,
+        "title": "The Hangover",
+        "year": "2009",
+        "runtime": "100",
+        "director": "Todd Phillips"
+      },
+      {
+        "id": 49,
+        "title": "The Truman Show",
+        "year": "1998",
+        "runtime": "103",
+        "director": "Peter Weir"
+      },
+      {
+        "id": 50,
+        "title": "The Artist",
+        "year": "2011",
+        "runtime": "100",
+        "director": "Michel Hazanavicius"
+      },
+      {
+        "id": 51,
+        "title": "Forrest Gump",
+        "year": "1994",
+        "runtime": "142",
+        "director": "Robert Zemeckis"
+      },
+      {
+        "id": 64,
+        "title": "God Bless America",
+        "year": "2011",
+        "runtime": "105",
+        "director": "Bobcat Goldthwait"
+      },
+      {
+        "id": 85,
+        "title": "I-See-You.Com",
+        "year": "2006",
+        "runtime": "92",
+        "director": "Eric Steven Stahl"
+      },
+      {
+        "id": 92,
+        "title": "Silver Linings Playbook",
+        "year": "2012",
+        "runtime": "122",
+        "director": "David O. Russell"
+      },
+      {
+        "id": 96,
+        "title": "Kiss Kiss Bang Bang",
+        "year": "2005",
+        "runtime": "103",
+        "director": "Shane Black"
+      },
+      {
+        "id": 105,
+        "title": "The Rum Diary",
+        "year": "2011",
+        "runtime": "120",
+        "director": "Bruce Robinson"
+      },
+      {
+        "id": 108,
+        "title": "Calvary",
+        "year": "2014",
+        "runtime": "102",
+        "director": "John Michael McDonagh"
+      },
+      {
+        "id": 112,
+        "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+        "year": "2014",
+        "runtime": "119",
+        "director": "Alejandro G. Iñárritu"
+      },
+      {
+        "id": 117,
+        "title": "Big Nothing",
+        "year": "2006",
+        "runtime": "86",
+        "director": "Jean-Baptiste Andrea"
+      }
+    ]
+  },
+  {
+    "title": "Crime",
+    "movies": [
+      {
+        "id": 2,
+        "title": "The Cotton Club",
+        "year": "1984",
+        "runtime": "127",
+        "director": "Francis Ford Coppola"
+      },
+      {
+        "id": 3,
+        "title": "The Shawshank Redemption",
+        "year": "1994",
+        "runtime": "142",
+        "director": "Frank Darabont"
+      },
+      {
+        "id": 7,
+        "title": "City of God",
+        "year": "2002",
+        "runtime": "130",
+        "director": "Fernando Meirelles, Kátia Lund"
+      },
+      {
+        "id": 12,
+        "title": "Taxi Driver",
+        "year": "1976",
+        "runtime": "113",
+        "director": "Martin Scorsese"
+      },
+      {
+        "id": 13,
+        "title": "No Country for Old Men",
+        "year": "2007",
+        "runtime": "122",
+        "director": "Ethan Coen, Joel Coen"
+      },
+      {
+        "id": 19,
+        "title": "Scarface",
+        "year": "1983",
+        "runtime": "170",
+        "director": "Brian De Palma"
+      },
+      {
+        "id": 26,
+        "title": "The Silence of the Lambs",
+        "year": "1991",
+        "runtime": "118",
+        "director": "Jonathan Demme"
+      },
+      {
+        "id": 29,
+        "title": "Midnight Express",
+        "year": "1978",
+        "runtime": "121",
+        "director": "Alan Parker"
+      },
+      {
+        "id": 30,
+        "title": "Pulp Fiction",
+        "year": "1994",
+        "runtime": "154",
+        "director": "Quentin Tarantino"
+      },
+      {
+        "id": 32,
+        "title": "Lucky Number Slevin",
+        "year": "2006",
+        "runtime": "110",
+        "director": "Paul McGuigan"
+      },
+      {
+        "id": 36,
+        "title": "Reservoir Dogs",
+        "year": "1992",
+        "runtime": "99",
+        "director": "Quentin Tarantino"
+      },
+      {
+        "id": 40,
+        "title": "L.A. Confidential",
+        "year": "1997",
+        "runtime": "138",
+        "director": "Curtis Hanson"
+      },
+      {
+        "id": 71,
+        "title": "American History X",
+        "year": "1998",
+        "runtime": "119",
+        "director": "Tony Kaye"
+      },
+      {
+        "id": 75,
+        "title": "Crash",
+        "year": "2004",
+        "runtime": "112",
+        "director": "Paul Haggis"
+      },
+      {
+        "id": 88,
+        "title": "Once Upon a Time in America",
+        "year": "1984",
+        "runtime": "229",
+        "director": "Sergio Leone"
+      },
+      {
+        "id": 114,
+        "title": "12 Angry Men",
+        "year": "1957",
+        "runtime": "96",
+        "director": "Sidney Lumet"
+      },
+      {
+        "id": 120,
+        "title": "Sin City",
+        "year": "2005",
+        "runtime": "124",
+        "director": "Frank Miller, Robert Rodriguez, Quentin Tarantino"
+      },
+      {
+        "id": 143,
+        "title": "To Kill a Mockingbird",
+        "year": "1962",
+        "runtime": "129",
+        "director": "Robert Mulligan"
+      },
+      {
+        "id": 144,
+        "title": "The Hateful Eight",
+        "year": "2015",
+        "runtime": "187",
+        "director": "Quentin Tarantino"
+      }
+    ]
+  },
+  {
+    "title": "Drama",
+    "movies": [
+      {
+        "id": 5,
+        "title": "Valkyrie",
+        "year": "2008",
+        "runtime": "121",
+        "director": "Bryan Singer"
+      },
+      {
+        "id": 21,
+        "title": "Black Swan",
+        "year": "2010",
+        "runtime": "108",
+        "director": "Darren Aronofsky"
+      },
+      {
+        "id": 23,
+        "title": "The Deer Hunter",
+        "year": "1978",
+        "runtime": "183",
+        "director": "Michael Cimino"
+      },
+      {
+        "id": 25,
+        "title": "Django Unchained",
+        "year": "2012",
+        "runtime": "165",
+        "director": "Quentin Tarantino"
+      },
+      {
+        "id": 27,
+        "title": "American Beauty",
+        "year": "1999",
+        "runtime": "122",
+        "director": "Sam Mendes"
+      },
+      {
+        "id": 34,
+        "title": "Pan's Labyrinth",
+        "year": "2006",
+        "runtime": "118",
+        "director": "Guillermo del Toro"
+      },
+      {
+        "id": 37,
+        "title": "The Shining",
+        "year": "1980",
+        "runtime": "146",
+        "director": "Stanley Kubrick"
+      },
+      {
+        "id": 39,
+        "title": "Les Misérables",
+        "year": "2012",
+        "runtime": "158",
+        "director": "Tom Hooper"
+      },
+      {
+        "id": 43,
+        "title": "The Great Beauty",
+        "year": "2013",
+        "runtime": "141",
+        "director": "Paolo Sorrentino"
+      },
+      {
+        "id": 44,
+        "title": "Gran Torino",
+        "year": "2008",
+        "runtime": "116",
+        "director": "Clint Eastwood"
+      },
+      {
+        "id": 46,
+        "title": "Flight",
+        "year": "2012",
+        "runtime": "138",
+        "director": "Robert Zemeckis"
+      },
+      {
+        "id": 47,
+        "title": "One Flew Over the Cuckoo's Nest",
+        "year": "1975",
+        "runtime": "133",
+        "director": "Milos Forman"
+      },
+      {
+        "id": 48,
+        "title": "Requiem for a Dream",
+        "year": "2000",
+        "runtime": "102",
+        "director": "Darren Aronofsky"
+      },
+      {
+        "id": 53,
+        "title": "Vicky Cristina Barcelona",
+        "year": "2008",
+        "runtime": "96",
+        "director": "Woody Allen"
+      },
+      {
+        "id": 54,
+        "title": "Slumdog Millionaire",
+        "year": "2008",
+        "runtime": "120",
+        "director": "Danny Boyle, Loveleen Tandan"
+      },
+      {
+        "id": 55,
+        "title": "Lost in Translation",
+        "year": "2003",
+        "runtime": "101",
+        "director": "Sofia Coppola"
+      },
+      {
+        "id": 56,
+        "title": "Match Point",
+        "year": "2005",
+        "runtime": "119",
+        "director": "Woody Allen"
+      },
+      {
+        "id": 68,
+        "title": "Casablanca",
+        "year": "1942",
+        "runtime": "102",
+        "director": "Michael Curtiz"
+      },
+      {
+        "id": 78,
+        "title": "Oldboy",
+        "year": "2003",
+        "runtime": "120",
+        "director": "Chan-wook Park"
+      },
+      {
+        "id": 79,
+        "title": "Chocolat",
+        "year": "2000",
+        "runtime": "121",
+        "director": "Lasse Hallström"
+      },
+      {
+        "id": 84,
+        "title": "Sunset Boulevard",
+        "year": "1950",
+        "runtime": "110",
+        "director": "Billy Wilder"
+      },
+      {
+        "id": 91,
+        "title": "Gattaca",
+        "year": "1997",
+        "runtime": "106",
+        "director": "Andrew Niccol"
+      },
+      {
+        "id": 97,
+        "title": "The Quiet American",
+        "year": "2002",
+        "runtime": "101",
+        "director": "Phillip Noyce"
+      },
+      {
+        "id": 98,
+        "title": "Cloud Atlas",
+        "year": "2012",
+        "runtime": "172",
+        "director": "Tom Tykwer, Lana Wachowski, Lilly Wachowski"
+      },
+      {
+        "id": 99,
+        "title": "The Impossible",
+        "year": "2012",
+        "runtime": "114",
+        "director": "J.A. Bayona"
+      },
+      {
+        "id": 100,
+        "title": "All Quiet on the Western Front",
+        "year": "1930",
+        "runtime": "136",
+        "director": "Lewis Milestone"
+      },
+      {
+        "id": 101,
+        "title": "The English Patient",
+        "year": "1996",
+        "runtime": "162",
+        "director": "Anthony Minghella"
+      },
+      {
+        "id": 104,
+        "title": "Before Sunrise",
+        "year": "1995",
+        "runtime": "105",
+        "director": "Richard Linklater"
+      },
+      {
+        "id": 107,
+        "title": "Chinatown",
+        "year": "1974",
+        "runtime": "130",
+        "director": "Roman Polanski"
+      },
+      {
+        "id": 109,
+        "title": "Before Sunset",
+        "year": "2004",
+        "runtime": "80",
+        "director": "Richard Linklater"
+      },
+      {
+        "id": 111,
+        "title": "Indochine",
+        "year": "1992",
+        "runtime": "159",
+        "director": "Régis Wargnier"
+      },
+      {
+        "id": 113,
+        "title": "Boyhood",
+        "year": "2014",
+        "runtime": "165",
+        "director": "Richard Linklater"
+      },
+      {
+        "id": 124,
+        "title": "Original Sin",
+        "year": "2001",
+        "runtime": "116",
+        "director": "Michael Cristofer"
+      },
+      {
+        "id": 126,
+        "title": "Before Midnight",
+        "year": "2013",
+        "runtime": "109",
+        "director": "Richard Linklater"
+      },
+      {
+        "id": 130,
+        "title": "The Great Gatsby",
+        "year": "2013",
+        "runtime": "143",
+        "director": "Baz Luhrmann"
+      },
+      {
+        "id": 134,
+        "title": "Ex Machina",
+        "year": "2015",
+        "runtime": "108",
+        "director": "Alex Garland"
+      },
+      {
+        "id": 139,
+        "title": "Whiplash",
+        "year": "2014",
+        "runtime": "107",
+        "director": "Damien Chazelle"
+      },
+      {
+        "id": 140,
+        "title": "The Lives of Others",
+        "year": "2006",
+        "runtime": "137",
+        "director": "Florian Henckel von Donnersmarck"
+      },
+      {
+        "id": 141,
+        "title": "Hotel Rwanda",
+        "year": "2004",
+        "runtime": "121",
+        "director": "Terry George"
+      },
+      {
+        "id": 145,
+        "title": "A Separation",
+        "year": "2011",
+        "runtime": "123",
+        "director": "Asghar Farhadi"
+      }
+    ]
+  },
+  {
+    "title": "Adventure",
+    "movies": [
+      {
+        "id": 4,
+        "title": "Crocodile Dundee",
+        "year": "1986",
+        "runtime": "97",
+        "director": "Peter Faiman"
+      },
+      {
+        "id": 10,
+        "title": "Stardust",
+        "year": "2007",
+        "runtime": "127",
+        "director": "Matthew Vaughn"
+      },
+      {
+        "id": 18,
+        "title": "The Beach",
+        "year": "2000",
+        "runtime": "119",
+        "director": "Danny Boyle"
+      },
+      {
+        "id": 52,
+        "title": "The Hobbit: The Desolation of Smaug",
+        "year": "2013",
+        "runtime": "161",
+        "director": "Peter Jackson"
+      },
+      {
+        "id": 67,
+        "title": "Alive",
+        "year": "1993",
+        "runtime": "120",
+        "director": "Frank Marshall"
+      },
+      {
+        "id": 86,
+        "title": "The Grand Budapest Hotel",
+        "year": "2014",
+        "runtime": "99",
+        "director": "Wes Anderson"
+      },
+      {
+        "id": 87,
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "year": "2005",
+        "runtime": "109",
+        "director": "Garth Jennings"
+      },
+      {
+        "id": 93,
+        "title": "Alice in Wonderland",
+        "year": "2010",
+        "runtime": "108",
+        "director": "Tim Burton"
+      },
+      {
+        "id": 116,
+        "title": "Interstellar",
+        "year": "2014",
+        "runtime": "169",
+        "director": "Christopher Nolan"
+      },
+      {
+        "id": 118,
+        "title": "Das Boot",
+        "year": "1981",
+        "runtime": "149",
+        "director": "Wolfgang Petersen"
+      },
+      {
+        "id": 121,
+        "title": "Nebraska",
+        "year": "2013",
+        "runtime": "115",
+        "director": "Alexander Payne"
+      },
+      {
+        "id": 128,
+        "title": "Troy",
+        "year": "2004",
+        "runtime": "163",
+        "director": "Wolfgang Petersen"
+      },
+      {
+        "id": 129,
+        "title": "The Hobbit: An Unexpected Journey",
+        "year": "2012",
+        "runtime": "169",
+        "director": "Peter Jackson"
+      },
+      {
+        "id": 136,
+        "title": "Shogun",
+        "year": "1980",
+        "runtime": "60",
+        "director": "N/A"
+      },
+      {
+        "id": 142,
+        "title": "The Martian",
+        "year": "2015",
+        "runtime": "144",
+        "director": "Ridley Scott"
+      }
+    ]
+  },
+  {
+    "title": "Animation",
+    "movies": [
+      {
+        "id": 6,
+        "title": "Ratatouille",
+        "year": "2007",
+        "runtime": "111",
+        "director": "Brad Bird, Jan Pinkava"
+      },
+      {
+        "id": 14,
+        "title": "Planet 51",
+        "year": "2009",
+        "runtime": "91",
+        "director": "Jorge Blanco, Javier Abad, Marcos Martínez"
+      },
+      {
+        "id": 16,
+        "title": "Corpse Bride",
+        "year": "2005",
+        "runtime": "77",
+        "director": "Tim Burton, Mike Johnson"
+      },
+      {
+        "id": 45,
+        "title": "Mary and Max",
+        "year": "2009",
+        "runtime": "92",
+        "director": "Adam Elliot"
+      },
+      {
+        "id": 59,
+        "title": "Madagascar: Escape 2 Africa",
+        "year": "2008",
+        "runtime": "89",
+        "director": "Eric Darnell, Tom McGrath"
+      },
+      {
+        "id": 60,
+        "title": "Despicable Me 2",
+        "year": "2013",
+        "runtime": "98",
+        "director": "Pierre Coffin, Chris Renaud"
+      },
+      {
+        "id": 62,
+        "title": "Madagascar",
+        "year": "2005",
+        "runtime": "86",
+        "director": "Eric Darnell, Tom McGrath"
+      },
+      {
+        "id": 63,
+        "title": "Madagascar 3: Europe's Most Wanted",
+        "year": "2012",
+        "runtime": "93",
+        "director": "Eric Darnell, Tom McGrath, Conrad Vernon"
+      },
+      {
+        "id": 81,
+        "title": "WALL·E",
+        "year": "2008",
+        "runtime": "98",
+        "director": "Andrew Stanton"
+      },
+      {
+        "id": 110,
+        "title": "Spirited Away",
+        "year": "2001",
+        "runtime": "125",
+        "director": "Hayao Miyazaki"
+      },
+      {
+        "id": 119,
+        "title": "Shrek 2",
+        "year": "2004",
+        "runtime": "93",
+        "director": "Andrew Adamson, Kelly Asbury, Conrad Vernon"
+      },
+      {
+        "id": 122,
+        "title": "Shrek",
+        "year": "2001",
+        "runtime": "90",
+        "director": "Andrew Adamson, Vicky Jenson"
+      },
+      {
+        "id": 125,
+        "title": "Shrek Forever After",
+        "year": "2010",
+        "runtime": "93",
+        "director": "Mike Mitchell"
+      },
+      {
+        "id": 127,
+        "title": "Despicable Me",
+        "year": "2010",
+        "runtime": "95",
+        "director": "Pierre Coffin, Chris Renaud"
+      },
+      {
+        "id": 131,
+        "title": "Ice Age",
+        "year": "2002",
+        "runtime": "81",
+        "director": "Chris Wedge, Carlos Saldanha"
+      }
+    ]
+  },
+  {
+    "title": "Mystery",
+    "movies": [
+      {
+        "id": 8,
+        "title": "Memento",
+        "year": "2000",
+        "runtime": "113",
+        "director": "Christopher Nolan"
+      },
+      {
+        "id": 33,
+        "title": "Rear Window",
+        "year": "1954",
+        "runtime": "112",
+        "director": "Alfred Hitchcock"
+      },
+      {
+        "id": 35,
+        "title": "Shutter Island",
+        "year": "2010",
+        "runtime": "138",
+        "director": "Martin Scorsese"
+      },
+      {
+        "id": 138,
+        "title": "Vertigo",
+        "year": "1958",
+        "runtime": "128",
+        "director": "Alfred Hitchcock"
+      }
+    ]
+  },
+  {
+    "title": "Biography",
+    "movies": [
+      {
+        "id": 9,
+        "title": "The Intouchables",
+        "year": "2011",
+        "runtime": "112",
+        "director": "Olivier Nakache, Eric Toledano"
+      },
+      {
+        "id": 20,
+        "title": "Sid and Nancy",
+        "year": "1986",
+        "runtime": "112",
+        "director": "Alex Cox"
+      },
+      {
+        "id": 41,
+        "title": "Moneyball",
+        "year": "2011",
+        "runtime": "133",
+        "director": "Bennett Miller"
+      },
+      {
+        "id": 61,
+        "title": "Downfall",
+        "year": "2004",
+        "runtime": "156",
+        "director": "Oliver Hirschbiegel"
+      },
+      {
+        "id": 65,
+        "title": "The Social Network",
+        "year": "2010",
+        "runtime": "120",
+        "director": "David Fincher"
+      },
+      {
+        "id": 66,
+        "title": "The Pianist",
+        "year": "2002",
+        "runtime": "150",
+        "director": "Roman Polanski"
+      },
+      {
+        "id": 69,
+        "title": "American Gangster",
+        "year": "2007",
+        "runtime": "157",
+        "director": "Ridley Scott"
+      },
+      {
+        "id": 70,
+        "title": "Catch Me If You Can",
+        "year": "2002",
+        "runtime": "141",
+        "director": "Steven Spielberg"
+      },
+      {
+        "id": 72,
+        "title": "Casino",
+        "year": "1995",
+        "runtime": "178",
+        "director": "Martin Scorsese"
+      },
+      {
+        "id": 82,
+        "title": "The Wolf of Wall Street",
+        "year": "2013",
+        "runtime": "180",
+        "director": "Martin Scorsese"
+      },
+      {
+        "id": 94,
+        "title": "Gandhi",
+        "year": "1982",
+        "runtime": "191",
+        "director": "Richard Attenborough"
+      },
+      {
+        "id": 102,
+        "title": "Dallas Buyers Club",
+        "year": "2013",
+        "runtime": "117",
+        "director": "Jean-Marc Vallée"
+      },
+      {
+        "id": 103,
+        "title": "Frida",
+        "year": "2002",
+        "runtime": "123",
+        "director": "Julie Taymor"
+      },
+      {
+        "id": 115,
+        "title": "The Imitation Game",
+        "year": "2014",
+        "runtime": "114",
+        "director": "Morten Tyldum"
+      },
+      {
+        "id": 135,
+        "title": "The Theory of Everything",
+        "year": "2014",
+        "runtime": "123",
+        "director": "James Marsh"
+      },
+      {
+        "id": 137,
+        "title": "Spotlight",
+        "year": "2015",
+        "runtime": "128",
+        "director": "Tom McCarthy"
+      },
+      {
+        "id": 146,
+        "title": "The Big Short",
+        "year": "2015",
+        "runtime": "130",
+        "director": "Adam McKay"
+      }
+    ]
+  },
+  {
+    "title": "Action",
+    "movies": [
+      {
+        "id": 11,
+        "title": "Apocalypto",
+        "year": "2006",
+        "runtime": "139",
+        "director": "Mel Gibson"
+      },
+      {
+        "id": 15,
+        "title": "Looper",
+        "year": "2012",
+        "runtime": "119",
+        "director": "Rian Johnson"
+      },
+      {
+        "id": 22,
+        "title": "Inception",
+        "year": "2010",
+        "runtime": "148",
+        "director": "Christopher Nolan"
+      },
+      {
+        "id": 58,
+        "title": "North by Northwest",
+        "year": "1959",
+        "runtime": "136",
+        "director": "Alfred Hitchcock"
+      },
+      {
+        "id": 73,
+        "title": "Pirates of the Caribbean: At World's End",
+        "year": "2007",
+        "runtime": "169",
+        "director": "Gore Verbinski"
+      },
+      {
+        "id": 74,
+        "title": "Pirates of the Caribbean: On Stranger Tides",
+        "year": "2011",
+        "runtime": "136",
+        "director": "Rob Marshall"
+      },
+      {
+        "id": 76,
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "year": "2003",
+        "runtime": "143",
+        "director": "Gore Verbinski"
+      },
+      {
+        "id": 77,
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": "2003",
+        "runtime": "201",
+        "director": "Peter Jackson"
+      },
+      {
+        "id": 80,
+        "title": "Casino Royale",
+        "year": "2006",
+        "runtime": "144",
+        "director": "Martin Campbell"
+      },
+      {
+        "id": 83,
+        "title": "Hellboy II: The Golden Army",
+        "year": "2008",
+        "runtime": "120",
+        "director": "Guillermo del Toro"
+      },
+      {
+        "id": 89,
+        "title": "Oblivion",
+        "year": "2013",
+        "runtime": "124",
+        "director": "Joseph Kosinski"
+      },
+      {
+        "id": 90,
+        "title": "V for Vendetta",
+        "year": "2005",
+        "runtime": "132",
+        "director": "James McTeigue"
+      },
+      {
+        "id": 95,
+        "title": "Pacific Rim",
+        "year": "2013",
+        "runtime": "131",
+        "director": "Guillermo del Toro"
+      },
+      {
+        "id": 106,
+        "title": "The Last Samurai",
+        "year": "2003",
+        "runtime": "154",
+        "director": "Edward Zwick"
+      },
+      {
+        "id": 123,
+        "title": "Mr. & Mrs. Smith",
+        "year": "2005",
+        "runtime": "120",
+        "director": "Doug Liman"
+      },
+      {
+        "id": 132,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": "2001",
+        "runtime": "178",
+        "director": "Peter Jackson"
+      },
+      {
+        "id": 133,
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": "2002",
+        "runtime": "179",
+        "director": "Peter Jackson"
+      }
+    ]
+  },
+  {
+    "title": "Film-Noir",
+    "movies": [
+      {
+        "id": 17,
+        "title": "The Third Man",
+        "year": "1949",
+        "runtime": "93",
+        "director": "Carol Reed"
+      }
+    ]
+  },
+  {
+    "title": "Horror",
+    "movies": [
+      {
+        "id": 57,
+        "title": "Psycho",
+        "year": "1960",
+        "runtime": "109",
+        "director": "Alfred Hitchcock"
+      }
+    ]
+  }
+]
