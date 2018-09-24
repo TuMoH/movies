@@ -1,6 +1,6 @@
 package com.androidtim.movies.model
 
-data class GenreItem(
+data class Genre(
         val title: String,
-        val movies: List<MovieItem>
+        val movies: List<Movie>
 )

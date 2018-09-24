@@ -46,11 +46,11 @@ class ItemViewHolder(view: View,
         itemView.setTag(R.id.movie_list_item_key, movieListItem)
         itemView.setTag(R.id.genre_list_item_key, genreListItem)
 
-        val movieItem = movieListItem.movieItem
-        title.text = movieItem.title
-        year.text = movieItem.year
-        runtime.text = runtime.context.getString(R.string.runtime, movieItem.runtime)
-        director.text = movieItem.director
+        val movie = movieListItem.movie
+        title.text = movie.title
+        year.text = movie.year
+        runtime.text = runtime.context.getString(R.string.runtime, movie.runtime)
+        director.text = movie.director
 
         if (movieListItem.isMenuOpen) {
             swipeLayout.openMenu()

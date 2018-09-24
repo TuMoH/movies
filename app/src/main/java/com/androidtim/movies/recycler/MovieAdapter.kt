@@ -1,7 +1,5 @@
 package com.androidtim.movies.recycler
 
-import android.os.Looper
-import android.os.MessageQueue
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -14,7 +12,10 @@ typealias OnItemMenuClickListener = (adapterPosition: Int, genre: GenreListItem,
 typealias OnHeaderClickListener = (adapterPosition: Int, genre: GenreListItem) -> Unit
 
 class MovieAdapter(private val data: List<GenreListItem>,
-                   private val inflater: LayoutInflater) :
+                   private val inflater: LayoutInflater,
+                   private var onItemDismissListener: OnItemDismissListener,
+                   private var onItemItemMenuClickListener: OnItemMenuClickListener,
+                   private var onHeaderClickListener: OnHeaderClickListener) :
         RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 
     companion object {
@@ -22,12 +23,9 @@ class MovieAdapter(private val data: List<GenreListItem>,
         private const val ITEM_VIEW_TYPE = 2
     }
 
-    var onItemDismissListener: OnItemDismissListener? = null
-    var onItemItemMenuClickListener: OnItemMenuClickListener? = null
-    var onHeaderClickListener: OnHeaderClickListener? = null
-
     private var flatData = ArrayList<IndexHolder>()
-    private val prefetchIdleHandler = PrefetchIdleHandler(5)
+    private val prefetchIdleHandler = PrefetchIdleHandler(5,
+            inflater, onItemDismissListener, onItemItemMenuClickListener)
 
     init {
         updateFlatData()
@@ -115,38 +113,5 @@ class MovieAdapter(private val data: List<GenreListItem>,
     }
 
     class IndexHolder(val type: Int, val genreIndex: Int, val movieIndex: Int = -1)
-
-    inner class PrefetchIdleHandler(private val count: Int) : MessageQueue.IdleHandler {
-        private var isFinished = false
-        private var createdCount = 0
-        private val prefetchPool = ArrayDeque<ItemViewHolder>()
-
-        override fun queueIdle(): Boolean {
-            if (isFinished) return false
-
-            prefetchPool.add(ItemViewHolder.create(inflater, null, onItemDismissListener, onItemItemMenuClickListener))
-            createdCount++
-            isFinished = createdCount >= count
-
-            return !isFinished
-        }
-
-        fun run() {
-            if (isFinished) return
-
-            Looper.myQueue().addIdleHandler(this)
-        }
-
-        fun stop() {
-            if (isFinished) return
-
-            isFinished = true
-            Looper.myQueue().removeIdleHandler(this)
-        }
-
-        fun getItemViewHolder(): ItemViewHolder? {
-            return prefetchPool.poll()
-        }
-    }
 
 }

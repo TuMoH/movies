@@ -21,7 +21,7 @@ class SwipeHorizontalLayout @JvmOverloads constructor(
         private const val TRANSLATION_DURATION = 200
         private const val TIP_DURATION = 300
         private const val TIP_PAUSE = 400L
-        private const val SWIPE_TO_DISMISS_PERCENT = 0.6f
+        private const val SWIPE_TO_DISMISS_PERCENT = 0.7f
         private const val SWIPE_MENU_OPEN_PERCENT = 0.5f
     }
 

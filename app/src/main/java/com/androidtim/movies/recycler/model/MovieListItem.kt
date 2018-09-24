@@ -1,8 +1,8 @@
 package com.androidtim.movies.recycler.model
 
-import com.androidtim.movies.model.MovieItem
+import com.androidtim.movies.model.Movie
 
 data class MovieListItem(
-        val movieItem: MovieItem,
+        val movie: Movie,
         var isMenuOpen: Boolean = false
 )

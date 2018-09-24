@@ -17,9 +17,8 @@ class MainActivity : AppCompatActivity() {
     private lateinit var adapter: MovieAdapter
     private lateinit var layoutManager: LinearLayoutManager
 
-    private var listData = ArrayList<GenreListItem>()
     private var loader: MoviesLoader? = null
-
+    private var listData = ArrayList<GenreListItem>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -28,10 +27,13 @@ class MainActivity : AppCompatActivity() {
         layoutManager = LinearLayoutManager(this)
         recycler_view.layoutManager = layoutManager
 
-        adapter = MovieAdapter(listData, LayoutInflater.from(this))
-        adapter.onItemDismissListener = this::removeItem
-        adapter.onItemItemMenuClickListener = this::removeItem
-        adapter.onHeaderClickListener = this::onClickHeader
+        adapter = MovieAdapter(
+                data = listData,
+                inflater = LayoutInflater.from(this),
+                onItemDismissListener = this::removeItem,
+                onItemItemMenuClickListener = this::removeItem,
+                onHeaderClickListener = this::onClickHeader
+        )
         recycler_view.adapter = adapter
 
         loader = MoviesLoader(this,

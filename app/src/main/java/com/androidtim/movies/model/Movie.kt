@@ -1,6 +1,6 @@
 package com.androidtim.movies.model
 
-data class MovieItem(
+data class Movie(
         val title: String,
         val year: String,
         val runtime: String,
