@@ -6,9 +6,9 @@ import android.support.v7.widget.LinearLayoutManager
 import android.util.Log
 import android.view.LayoutInflater
 import android.widget.Toast
-import com.androidtim.movies.recycler.model.GenreListItem
+import com.androidtim.movies.recycler.viewmodel.GenreListItem
 import com.androidtim.movies.recycler.MovieAdapter
-import com.androidtim.movies.recycler.model.MovieListItem
+import com.androidtim.movies.recycler.viewmodel.MovieListItem
 
 import kotlinx.android.synthetic.main.activity_main.*
 

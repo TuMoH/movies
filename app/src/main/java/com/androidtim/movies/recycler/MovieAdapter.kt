@@ -3,8 +3,8 @@ package com.androidtim.movies.recycler
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import com.androidtim.movies.recycler.model.GenreListItem
-import com.androidtim.movies.recycler.model.MovieListItem
+import com.androidtim.movies.recycler.viewmodel.GenreListItem
+import com.androidtim.movies.recycler.viewmodel.MovieListItem
 import java.util.*
 
 typealias OnItemDismissListener = (adapterPosition: Int, genre: GenreListItem, movie: MovieListItem) -> Unit
@@ -33,7 +33,7 @@ class MovieAdapter(private val data: List<GenreListItem>,
         prefetchIdleHandler.run()
     }
 
-    fun updateFlatData() {
+    private fun updateFlatData() {
         flatData.clear()
 
         for (genreIndex in data.indices) {

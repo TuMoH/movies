@@ -1,4 +1,4 @@
-package com.androidtim.movies.recycler.model
+package com.androidtim.movies.recycler.viewmodel
 
 data class GenreListItem(
         val title: String,

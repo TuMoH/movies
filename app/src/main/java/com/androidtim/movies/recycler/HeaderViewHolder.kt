@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import com.androidtim.movies.R
-import com.androidtim.movies.recycler.model.GenreListItem
+import com.androidtim.movies.recycler.viewmodel.GenreListItem
 
 class HeaderViewHolder(view: View, onClickListener: OnHeaderClickListener?) :
         RecyclerView.ViewHolder(view) {

@@ -6,8 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import com.androidtim.movies.R
-import com.androidtim.movies.recycler.model.GenreListItem
-import com.androidtim.movies.recycler.model.MovieListItem
+import com.androidtim.movies.recycler.viewmodel.GenreListItem
+import com.androidtim.movies.recycler.viewmodel.MovieListItem
 import com.androidtim.movies.recycler.swipe.SwipeHorizontalLayout
 
 class ItemViewHolder(view: View,
