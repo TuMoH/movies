@@ -66,12 +66,12 @@ class MainActivity : AppCompatActivity() {
 
     private fun removeItem(adapterPosition: Int, genre: GenreListItem, movie: MovieListItem) {
         genre.movies.remove(movie)
+        adapter.notifyItemRemoved(adapterPosition)
 
         if (genre.movies.isEmpty()) {
             listData.remove(genre)
             adapter.notifyItemRemoved(adapterPosition - 1)
         }
-        adapter.notifyItemRemoved(adapterPosition)
     }
 
     private fun onClickHeader(adapterPosition: Int, genre: GenreListItem) {
